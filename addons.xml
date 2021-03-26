@@ -1,0 +1,669 @@
+<?xml version="1.0"?>
+<addons>
+	<toolbar>
+		<toolitem name="Button1">
+			<image>
+				<![CDATA[Qk02AwAAAAAAADYAAAAoAAAAEAAAABAAAAABABgAAAAAAAADAADEDgAAxA4AAAAAAAAAAAAA////
+		////////////////////////////////////////////////////////////////////////////
+		////////2q9Bjm4e////////////////////////////////////////////////////////i2oY
+		z5gIgV4F////////////////////////////////////////////////////iWgU9suXz5gIh2UQ
+		////////////////////////////////////////////////gl8I9suX9suXz5gIh2UR////////
+		/////v7+////////////1aQniGcTlHYrg2EKf1sA9suX9suX9suXz5gIgl8H////////////////
+		////////h2UR9suX9suX9suX9suX9suX9suX9suX9suXz5gIgl8H////////////////////i2sa
+		9suX9suX9suX9suX9suX9suX9suX9suX9suXz5gIj3Ah////////////////kHEk9suX9suX9suX
+		9suX9suX9suX9suX9suX9suX//PV1qgv////////////////lHYr//PV//PV//PV//PV//PV9suX
+		9suX9suX//PV0ZwS////////////////////2rBFz5gJz5gIz5gIf1sA//PV9suX9suX//PV0qEe
+		/////f39////////////////////////////////f1sA//PV9suX//PV0Z8a/////////////v7+
+		////////////////////////////f1sA//PV//PV0ZwS////////////////////////////////
+		////////////////gV4F//PV0p8b/////////v7+////////////////////////////////////
+		////i2oZ06Ad/////////////////////v7+////////////////////////////////////////
+		////////////////////////////////]]>
+			</image>
+			<code>
+				<![CDATA[MsgBox App.WorkDir]]>
+			</code>
+		</toolitem>
+		<toolitem name="button2">
+			<image>
+				<![CDATA[Qk02AwAAAAAAADYAAAAoAAAAEAAAABAAAAABABgAAAAAAAADAADEDgAAxA4AAAAAAAAAAAAA////
+		////////////////////////////////////////////////////////////////////////////
+		////////2q9Bjm4e////////////////////////////////////////////////////////i2oY
+		z5gIgV4F////////////////////////////////////////////////////iWgU9suXz5gIh2UQ
+		////////////////////////////////////////////////gl8I9suX9suXz5gIh2UR////////
+		/////v7+////////////1aQniGcTlHYrg2EKf1sA9suX9suX9suXz5gIgl8H////////////////
+		////////h2UR9suX9suX9suX9suX9suX9suX9suX9suXz5gIgl8H////////////////////i2sa
+		9suX9suX9suX9suX9suX9suX9suX9suX9suXz5gIj3Ah////////////////kHEk9suX9suX9suX
+		9suX9suX9suX9suX9suX9suX//PV1qgv////////////////lHYr//PV//PV//PV//PV//PV9suX
+		9suX9suX//PV0ZwS////////////////////2rBFz5gJz5gIz5gIf1sA//PV9suX9suX//PV0qEe
+		/////f39////////////////////////////////f1sA//PV9suX//PV0Z8a/////////////v7+
+		////////////////////////////f1sA//PV//PV0ZwS////////////////////////////////
+		////////////////gV4F//PV0p8b/////////v7+////////////////////////////////////
+		////i2oZ06Ad/////////////////////v7+////////////////////////////////////////
+		////////////////////////////////]]>
+			</image>
+			<code>
+				<![CDATA[MsgBox App.WorkDir]]>
+			</code>
+		</toolitem>
+	</toolbar>
+	<menu>
+		<menuitem name="Emmet" shortcut="16453">
+			<![CDATA['Модуль test emmet
+
+Dim Lorem(80)
+
+Lorem(0) = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+Lorem(1) = "Maecenas porttitor congue massa."
+Lorem(2) = "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna."
+Lorem(3) = "Nunc viverra imperdiet enim."
+Lorem(4) = "Fusce est."
+Lorem(5) = "Vivamus a tellus."
+Lorem(6) = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+Lorem(7) = "Proin pharetra nonummy pede."
+Lorem(8) = "Mauris et orci."
+Lorem(9) = "Aenean nec lorem."
+Lorem(10) = "In porttitor."
+Lorem(11) = "Donec laoreet nonummy augue."
+Lorem(12) = "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc."
+Lorem(13) = "Mauris eget neque at sem venenatis eleifend."
+Lorem(14) = "Ut nonummy."
+Lorem(15) = "Fusce aliquet pede non pede."
+Lorem(16) = "Suspendisse dapibus lorem pellentesque magna."
+Lorem(17) = "Integer nulla."
+Lorem(18) = "Donec blandit feugiat ligula."
+Lorem(19) = "Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacinia nulla nisl eget sapien."
+Lorem(20) = "Donec ut est in lectus consequat consequat."
+Lorem(21) = "Etiam eget dui."
+Lorem(22) = "Aliquam erat volutpat."
+Lorem(23) = "Sed at lorem in nunc porta tristique."
+Lorem(24) = "Proin nec augue."
+Lorem(25) = "Quisque aliquam tempor magna."
+Lorem(26) = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+Lorem(27) = "Nunc ac magna."
+Lorem(28) = "Maecenas odio dolor, vulputate vel, auctor ac, accumsan id, felis."
+Lorem(29) = "Pellentesque cursus sagittis felis."
+Lorem(30) = "Pellentesque porttitor, velit lacinia egestas auctor, diam eros tempus arcu, nec vulputate augue magna vel risus."
+Lorem(31) = "Cras non magna vel ante adipiscing rhoncus."
+Lorem(32) = "Vivamus a mi."
+Lorem(33) = "Morbi neque."
+Lorem(34) = "Aliquam erat volutpat."
+Lorem(35) = "Integer ultrices lobortis eros."
+Lorem(36) = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+Lorem(37) = "Proin semper, ante vitae sollicitudin posuere, metus quam iaculis nibh, vitae scelerisque nunc massa eget pede."
+Lorem(38) = "Sed velit urna, interdum vel, ultricies vel, faucibus at, quam."
+Lorem(39) = "Donec elit est, consectetuer eget, consequat quis, tempus quis, wisi."
+Lorem(40) = "In in nunc."
+Lorem(41) = "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos."
+Lorem(42) = "Donec ullamcorper fringilla eros."
+Lorem(43) = "Fusce in sapien eu purus dapibus commodo."
+Lorem(44) = "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+Lorem(45) = "Cras faucibus condimentum odio."
+Lorem(46) = "Sed ac ligula."
+Lorem(47) = "Aliquam at eros."
+Lorem(48) = "Etiam at ligula et tellus ullamcorper ultrices."
+Lorem(49) = "In fermentum, lorem non cursus porttitor, diam urna accumsan lacus, sed interdum wisi nibh nec nisl."
+Lorem(50) = "Ut tincidunt volutpat urna."
+Lorem(51) = "Mauris eleifend nulla eget mauris."
+Lorem(52) = "Sed cursus quam id felis."
+Lorem(53) = "Curabitur posuere quam vel nibh."
+Lorem(54) = "Cras dapibus dapibus nisl."
+Lorem(55) = "Vestibulum quis dolor a felis congue vehicula."
+Lorem(56) = "Maecenas pede purus, tristique ac, tempus eget, egestas quis, mauris."
+Lorem(57) = "Curabitur non eros."
+Lorem(58) = "Nullam hendrerit bibendum justo."
+Lorem(59) = "Fusce iaculis, est quis lacinia pretium, pede metus molestie lacus, at gravida wisi ante at libero."
+Lorem(60) = "Quisque ornare placerat risus."
+Lorem(61) = "Ut molestie magna at mi."
+Lorem(62) = "Integer aliquet mauris et nibh."
+Lorem(63) = "Ut mattis ligula posuere velit."
+Lorem(64) = "Nunc sagittis."
+Lorem(65) = "Curabitur varius fringilla nisl."
+Lorem(66) = "Duis pretium mi euismod erat."
+Lorem(67) = "Maecenas id augue."
+Lorem(68) = "Nam vulputate."
+Lorem(69) = "Duis a quam non neque lobortis malesuada."
+Lorem(70) = "Praesent euismod."
+Lorem(71) = "Donec nulla augue, venenatis scelerisque, dapibus a, consequat at, leo."
+Lorem(72) = "Pellentesque libero lectus, tristique ac, consectetuer sit amet, imperdiet ut, justo."
+Lorem(73) = "Sed aliquam odio vitae tortor."
+Lorem(74) = "Proin hendrerit tempus arcu."
+Lorem(75) = "In hac habitasse platea dictumst."
+Lorem(76) = "Suspendisse potenti."
+Lorem(77) = "Vivamus vitae massa adipiscing est lacinia sodales."
+Lorem(78) = "Donec metus massa, mollis vel, tempus placerat, vestibulum condimentum, ligula."
+Lorem(79) = "Nunc lacus metus, posuere eget, lacinia eu, varius quis, libero."
+Lorem(80) = "Aliquam nonummy adipiscing augue."
+
+NonHyph = Array("a","abbr","b","em","i","label","kbd","span","strong","sup","sub","q","u","var","title","td","th","img")
+
+class StackItem
+  public Value
+  public NextItem
+end class
+
+Class Stack
+  Private CurrTop
+  Private Sub Class_Initialize()
+     Set CurrTop = Nothing
+  End Sub
+  Public Sub Push(Value)
+     Set newTop = new StackItem
+     newTop.Value = Value
+     Set newTop.NextItem = currTop
+     Set currTop = newTop
+  End sub
+  Public Function Pop
+    if not me.IsStackEmpty then
+      Pop = currTop.Value
+      set currTop = currTop.NextItem
+    end if
+  end Function
+  Property Get IsStackEmpty()
+    IsStackEmpty = (currTop is Nothing)
+  End property
+  Property Get StackTop()
+    if IsStackEmpty Then
+       StackTop = ""
+    Else
+       StackTop = currTop.Value
+    End if
+  End Property
+End Class
+
+Class Emmet
+
+  Private objRegExp
+  Private Literals
+  Private Commands
+  Private FStr
+  Private CommandCount
+  Private FResult
+  Private FTab
+  Private FPos
+
+  Public Property Let StrPos(Value)
+    FPos = Value
+  End Property
+  
+  Private Sub Class_Initialize()
+    Set objRegExp = CreateObject("VBScript.RegExp")
+    objRegExp.Global = 1
+    Set Literals  = CreateObject("Scripting.Dictionary")
+    Set Commands  = CreateObject("Scripting.Dictionary")
+    FTab = 0
+    FPos = 0
+    randomize
+  End Sub
+
+  Private Sub Class_Terminate()
+    Set objRegExp = Nothing
+    Set Literals  = Nothing
+    Set Commands  = Nothing
+  End Sub
+  
+  Private Function FindPosBk(Value,posbk)
+   i = posbk
+   c = 1
+   while (c>0) and (i>0)
+     i = i - 1
+     if Mid(value,i,1)=")" then c = c + 1
+     if Mid(Value,i,1)="(" then c = c - 1
+   Wend 
+   FindPosBk = i
+  End Function
+  
+  Private Function WorkBrack(Value)
+    objRegExp.Pattern = "\)\*\d+"
+    set Matches = objRegExp.Execute(Value)
+    if Matches.Count > 0 then
+      pos2 =  InStr(Value, Matches.Item(0).Value)
+      pos1 = FindPosBk(Value,pos2)
+      Count = Cint(Right(Matches.Item(0).Value,Len(Matches.Item(0).Value)-2))
+      NewStr = ""
+      for i = 1 to Count
+        NewStr = NewStr & Mid(Value,pos1+1,pos2-pos1-1) & "+"
+      next
+      NewStr = "(" & Left(NewStr,Len(NewStr)-1) & ")"
+      WorkBrack = Replace(Value,Mid(Value,pos1,pos2-pos1) & Matches.Item(0).Value, NewStr)
+    Else 
+      WorkBrack = Value 
+    End if
+  End Function
+  
+  Private Sub PrePoc()
+    While FStr<>WorkBrack(FStr)
+      FStr = WorkBrack(FStr)
+    Wend
+    FStr = Replace(FStr,"ol+","ol>li")
+    FStr = Replace(FStr,"ul+","ul>li")
+    FStr = Replace(FStr,"dl+","dl>(dt+dd)")
+    FStr = Replace(FStr,"map+","map>area")
+    FStr = Replace(FStr,"table+","table>tr>td")
+    FStr = Replace(FStr,"colgrour+","colgroup>col")
+    FStr = Replace(FStr,"colg+","colgroup>col")
+    FStr = Replace(FStr,"pic+","picture>(source[scrset=""""]+img)")
+  End Sub
+  
+  Private Sub Parse()
+     j = 1 
+     For i = 1 To Len(FStr)
+       If (Mid(FStr,i,1)<>">") and (Mid(FStr,i,1)<>"+") and (Mid(FStr,i,1)<>"(") and (Mid(FStr,i,1)<>")") Then
+         cmd = cmd & Mid(FStr,i,1)
+       Else
+         If cmd<>"" Then 
+           Literals.Add j, cmd
+           j = j + 1
+         End If
+         Literals.Add j, Mid(FStr,i,1)
+         j = j + 1
+         cmd = ""
+       End if
+     Next
+     If cmd<>"" Then 
+       Literals.Add j, cmd
+       j = j + 1
+     End If     
+  End Sub
+  
+  Private Sub Compile()
+    c1 = 0
+    c2 = 0
+    CommandCount = 0
+    ForFlag = False
+    ForStr = 0
+    Arr = Literals.Keys
+    AddCommand "rem program"
+    For i = 0 to Literals.Count - 1
+      If Literals.Item(Arr(i))="(" Then
+        c1 = 0
+        c2 = 0
+        ForFlag = False
+      End If
+      If Literals.Item(Arr(i))=")" Then
+        c1 = 0
+        c2 = 0
+        ForFlag = False
+        AddCommand "tab-"
+        AddCommand "pop"
+      End if
+      If Literals.Item(Arr(i))="+" Then
+        c1 = 0
+        c2 = 0
+        ForFlag = False
+      End if 
+      If Literals.Item(Arr(i))=">" Then
+         'ничего не делаем
+      End If
+      If (Literals.Item(Arr(i))<>">") and (Literals.Item(Arr(i))<>"+") and (Literals.Item(Arr(i))<>"(") and (Literals.Item(Arr(i))<>")") Then
+        c1 = c1 + 1
+        If isFor(Literals.Item(Arr(i)))<>"" Then
+          ForStr = CommandCount
+          AddCommand "for " & isFor(Literals.Item(Arr(i)))
+          AddCommand "count 1"
+          ForFlag = True
+        End If
+        If ForFlag Then c2 = c2 + 1
+        Print Literals.Item(Arr(i))
+        If NextLiteral(i)<>">" Then
+           For j = 1 to c1
+              AddCommand "tab-"
+              AddCommand "pop"
+              If c2 = j Then AddCommand "next " & CStr(ForStr)
+           Next
+        End if
+      End if
+    Next 
+  End Sub
+  
+  Private Sub AddCommand(value)
+    Commands.Add CommandCount, value
+    CommandCount = CommandCount + 1
+  End Sub
+  
+  Private Function isFor(Value)
+    objRegExp.Pattern = "\*\d*"
+    Set Matches = objRegExp.Execute(Value)
+    If Matches.Count > 0 Then 
+      isFor =  Right(Matches.Item(0).Value, Len(Matches.Item(0).Value)-1)
+    Else
+      isFor = ""
+    End If 
+  End Function
+  
+  Private Sub Print(Value)
+    tagtext = ""
+    tagparam = ""
+    objRegExp.Pattern = "^[A-Za-z0-9\$]*"
+    set Matches = objRegExp.Execute(Value)
+    if Matches.Count > 0 then tag = Matches.Item(0).Value
+    objRegExp.Pattern = "\:[A-Za-z0-9\$]*"
+    set Matches = objRegExp.Execute(Value)
+    if Matches.Count > 0 then tagparam = Matches.Item(0).Value
+    objRegExp.Pattern = "\.[a-zA-Z0-9\$\_]*"
+    set Matches = objRegExp.Execute(Value)
+    if Matches.Count > 0 then
+    for i = 0 to Matches.Count - 1 
+      tagclass = Trim(tagclass & " " & Right(Matches.Item(i).Value,len(Matches.Item(i).Value)-1))
+    next
+    End if
+    objRegExp.Pattern = "\#[a-zA-Z0-9\$\_]*"
+    set Matches = objRegExp.Execute(Value)
+    if Matches.Count > 0 then Tagid = Right(Matches.Item(0).Value, len(Matches.Item(0).Value)-1)
+    objRegExp.Pattern = "\{[^\{\}]*\}"
+    set Matches = objRegExp.Execute(Value)
+    if Matches.Count > 0 then tagtext = Matches.Item(0).Value
+    objRegExp.Pattern = "\[[^\[\]]*\]"
+    set Matches = objRegExp.Execute(Value)
+    if Matches.Count > 0 then tagattr = Matches.Item(0).Value
+    '----------------------------------------------------------------------
+    if (tag = "") and (trim(tagclass & tagid & tagattr)<>"") then tag = "div"
+    if tag = "ifr" then tag = "iframe"
+    if tag = "emb" then tag = "embed"
+    if tag = "obj" then tag = "object"
+    if tag = "inp" then tag = "input"
+    if tag = "opt" then tag = "option"
+    if tag = "tarea" then tag = "textarea"
+    if tag = "bq" then tag = "blockquote"
+    if tag = "fst" then tag = "fieldset"
+    if tag = "btn" then tag = "button"
+    if tag = "sect" then tag = "section"
+    if tag = "art" then tag = "article"
+    if tag = "hdr" then tag = "header"
+    if tag = "ftr" then tag = "footer"
+    if tag = "str" then tag = "strong"
+    if tagtext<>"" then tagtext = Mid(tagtext,2,len(tagtext)-2)
+    if tagattr<>"" then tagattr = Mid(tagattr,2,len(tagattr)-2) 
+    SCI = ""
+    if tag = "a" then 
+      if tagparam = "" then SCI = SCI & " href=""#"""
+      if tagparam = ":link" then SCI = SCI & " href=""http://"""
+      if tagparam = ":mail" then SCI = SCI & " href=""mailto:"""
+    End if
+    if tag = "map" then SCI = SCI & " name="""""
+    if tag = "script" then SCI = SCI & " src="""""
+    if tag = "video" then SCI = SCI & " src="""""
+    if tag = "audio" then SCI = SCI & " src="""""
+    if tag = "img" then SCI = SCI & " src="""" alt="""""
+    if tag = "iframe" then SCI = SCI & " src="""" frameborder=""0"""
+    if tag = "embed" then SCI = SCI & " src="""" type="""""
+    if tag = "object" then SCI = SCI & " data="""" type="""""
+    if tag = "area" then
+      if tagparam ="" then SCI = SCI & " share="""" coords="""" href="""" alt="""""
+      if tagparam =":d" then SCI = SCI & " share=""default"" href="""" alt="""""
+      if tagparam =":c" then SCI = SCI & " share=""circle"" coords="""" href="""" alt="""""
+      if tagparam =":r" then SCI = SCI & " share=""rect"" coords="""" href="""" alt="""""
+      if tagparam ="p" then SCI = SCI & " share=""poly"" coords="""" href="""" alt=""""" 
+    End if 
+    if tag = "label" then SCI = SCI & " for="""""
+    if tag = "option" then SCI = SCI & " value="""""
+    if tag = "select" then SCI = SCI & " name="""" id="""""
+    if tag = "textarea" then SCI = SCI & " name="""" id="""" cols=""30"" rows=""10"""
+    if tag = "button" then
+       if tagparam = "" then SCI = SCI & " type=""button"""
+       if tagparam = ":r" then SCI = SCI & " type=""reset"""
+       if tagparam = ":s" then SCI = SCI & " type=""submit"""
+    End if
+    if tag = "input" then
+       if tagparam = "" or tagparam = ":t" or tagparam = ":text" then SCI = SCI & " type=""text"" name="""" id="""""
+       if tagparam = ":h" or tagparam = ":hidden" then SCI = SCI & " type=""hidden"" name="""""
+       if tagparam = ":p" or tagparam = ":password" then SCI = SCI & " type=""password"" name="""" id="""""
+       if tagparam = ":search" then SCI = SCI & " type=""search"" name="""" id="""""
+       if tagparam = ":url" then SCI = SCI & " type=""url"" name="""" id="""""
+       if tagparam = ":email" then SCI = SCI & " type=""email"" name="""" id="""""
+       if tagparam = ":date" then SCI = SCI & " type=""date"" name="""" id="""""
+       if tagparam = ":datetime" then SCI = SCI & " type=""datetime"" name="""" id="""""
+       if tagparam = ":datetime-local" then SCI = SCI & " type=""datetime-local"" name="""" id="""""
+       if tagparam = ":month" then SCI = SCI & " type=""month"" name="""" id="""""
+       if tagparam = ":week" then SCI = SCI & " type=""week"" name="""" id="""""
+       if tagparam = ":time" then SCI = SCI & " type=""time"" name="""" id="""""
+       if tagparam = ":tel" then SCI = SCI & " type=""tel"" name="""" id="""""
+       if tagparam = ":number" then SCI = SCI & " type=""number"" name="""" id="""""
+       if tagparam = ":color" then SCI = SCI & " type=""color"" name="""" id="""""
+       if tagparam = ":range" then SCI = SCI & " type=""range"" name="""" id="""""
+       if tagparam = ":c" or tagparam = ":checkbox" then SCI = SCI & " type=""checkbox"" name="""" id="""""
+       if tagparam = ":r" or tagparam = ":radio" then SCI = SCI & " type=""radio"" name="""" id="""""
+       if tagparam = ":f" or tagparam = ":file" then SCI = SCI & " type=""file"" name="""" id="""""
+       if tagparam = ":s" or tagparam = ":submit" then SCI = SCI & " type=""submit"" value="""""
+       if tagparam = ":i" or tagparam = ":image" then SCI = SCI & " type=""image"" src="""" alt="""""
+       if tagparam = ":b" or tagparam = ":button" then SCI = SCI & " type=""button"" value="""""
+       if tagparam = ":reset" then SCI = SCI & " type=""reset"" value="""""
+    End if
+    If tag = "form" then
+       if tagparam = "" then SCI = SCI & " action="""""
+       if tagparam = ":get" then SCI = SCI & " action="""" method=""get"""
+       if tagparam = ":post" then SCI = SCI & " action="""" method=""post"""
+    End If
+    if tag = "link" then
+       if tagparam = "" then SCI = SCI & " rel=""stylesheet"" href="""""
+       if tagparam = ":css" then SCI = SCI & " rel=""stylesheet"" href=""style.css"""
+       if tagparam = ":favicon" then SCI = SCI & " rel=""shortcut icon"" type=""image/x-icon"" href=""favicon.ico"""
+    end if
+    if tag = "meta" then 
+      if tagparam = "" then SCI = SCI & " charset="""""
+      if tagparam = ":utf" then SCI = SCI & " http-equiv=""Content-Type"" content=""text/html;charset=UTF-8"""
+      if tagparam = ":win" then SCI = SCI & " http-equiv=""Content-Type"" content=""text/html;charset=windows-1251"""
+      if tagparam = ":vp"  then SCI = SCI & " name=""viewport"" content=""width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"""
+      if tagparam = ":compat" then SCI = SCI & " http-equiv=""X-UA-Compatible"" content=""IE=7"""
+    End if
+    if tag = "base" then SCI = SCI & " href="""""
+    if tagclass<>"" then SCI = SCI & " class=""" & tagclass & """" 
+    if tagid<>""    then SCI = SCI & " id=""" & tagid & """"
+    if tagattr<>""  then SCI = SCI & " " & tagattr
+    if (Mid(tag,1,5)<>"lorem") then
+      if trim(tag & SCI)<>"" Then
+         if tag = "html" then 
+           if tagparam = "" then AddCommand "print <!DOCTYPE html>"
+           if tagparam = ":5" then 
+               AddCommand "print <!DOCTYPE html>"
+               SCI = " lang=""en"""
+           End if 
+           if tagparam = ":4t" then 
+              AddCommand "print <!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"" ""http://www.w3.org/TR/html4/loose.dtd"">"
+              SCI = " lang=""en"""
+           End if
+           if tagparam = ":4s" then
+              AddCommand "print <!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01//EN"" ""http://www.w3.org/TR/html4/strict.dtd"">"
+              SCI = " lang=""en"""
+           End if
+           if tagparam = ":xt" then 
+              AddCommand "print <!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">"
+              SCI = " xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"""
+           End if
+           if tagparam = ":xxs" then
+              AddCommand "print <!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.1//EN"" ""http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd""> "
+              SCI = " xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"""
+           End if
+         End if
+         AddCommand "print " & CStr("<" & tag  & SCI & ">" & tagtext)
+      else
+          AddCommand "print " & tagtext
+      End if
+    Else
+      if Len(tag) = 5 Then
+         AddCommand "print " & CStr(Lorem(0))
+       Else
+         lorcount = CInt(Right(tag,Len(tag)-5))
+         for l = 0 to lorcount - 1
+           SCI = SCI & Lorem(Fix((rnd(80)*80))) & " "  
+         next
+         AddCommand "print " & CStr(SCI)
+       end if    
+    End If
+    if (tag<>"link") and (tag<>"meta") and (Mid(tag,1,5)<>"lorem") and (tag<>"base") and _
+       (tag<>"br") and (tag<>"input") and (tag<>"img") and (tag<>"area") and (tag<>"source") and (tag<>"track") Then
+      AddCommand "tab+"
+      if tag<>"" Then 
+         AddCommand "push </" & tag & ">"
+      Else
+         AddCommand "push "
+      End if
+    Else
+      AddCommand "tab+"
+      AddCommand "push "
+     End if 
+  End Sub
+  
+  Private Function TabStr(value)
+    tabOut = ""
+    if value>0 then
+      for i = 1 to value
+         tabOut = tabOut & "    "
+      next
+    End if
+    TabStr = tabOut
+  End Function
+  
+  Private Function FindElement(Value)
+     position = 0
+     For i = 0 To UBound(NonHyph) - 1
+       if ("</" & NonHyph(i) & ">") = Value Then Position = i + 1
+     next
+     FindElement = position  
+  End Function
+  
+  Private Function GetTag(Value) 
+    tag = ""
+    objRegExp.Pattern = "\<[a-zA-Z]*"
+    set Matches = objRegExp.Execute(Value)
+    if Matches.Count > 0 then tag = Right(Matches.Item(0).Value,Len(Matches.Item(0).Value)-1)
+    objRegExp.Pattern = "\<\/[a-zA-Z]*"
+    set Matches = objRegExp.Execute(Value)
+    if Matches.Count > 0 then tag = Right(Matches.Item(0).Value,Len(Matches.Item(0).Value)-2)
+    GetTag = tag
+  End Function
+  
+  Private Sub Run()
+    Set St = new Stack
+    Arr = Commands.Keys
+    ffff = 0
+    cfff = 0
+    i = 0
+    ResOut = ""
+    PrevTag = ""
+    While i <= Commands.Count - 1
+      if mid(Commands.Item(Arr(i)),1,5) = "print" then
+         OutString = mid(Commands.Item(Arr(i)),6,len(Commands.Item(Arr(i)))-5)
+         ResOut = ResOut & TabStr(FTab) & Trim(ToNum(OutString,cfff)) & vbCrLf
+      end if
+      if mid(Commands.Item(Arr(i)),1,4) = "push" then
+        St.push mid(Commands.Item(Arr(i)),5,len(Commands.Item(Arr(i)))-4)
+      End if
+      if mid(Commands.Item(Arr(i)),1,3) = "pop" then
+         if (st.StackTop)<>"" then       
+              ResOut = ResOut & TabStr(FTab) & Trim(ToNum(st.pop,cfff)) & vbCrLf
+         Else
+           buf = st.pop  
+         End if  
+      End if
+      if mid(Commands.Item(Arr(i)),1,3) = "for" then
+        ffff =  CInt(mid(Commands.Item(Arr(i)),4,len(Commands.Item(Arr(i)))-3))
+        Commands.Item(Arr(i)) = "for " & CStr(ffff-1)
+      end if
+      if mid(Commands.Item(Arr(i)),1,5) = "count" then
+        cfff =  CInt(mid(Commands.Item(Arr(i)),6,len(Commands.Item(Arr(i)))-5))
+        Commands.Item(Arr(i)) = "count " & CStr(cfff+1)
+      end if
+      if (mid(Commands.Item(Arr(i)),1,4) = "next") and (ffff>1) then
+        i = CInt(mid(Commands.Item(Arr(i)),5,len(Commands.Item(Arr(i)))-4)) - 1
+      end if
+      if Commands.Item(Arr(i))="tab+" then FTab = FTab + 1
+      if (Commands.Item(Arr(i))="tab-") and (FTab>0) then FTab = FTab - 1
+      i = i + 1
+    Wend
+    ResDim = Split(ResOut, vbCrlf)
+    for i = 0 to UBound(ResDim) - 1
+      if (i>0) and (FindElement(trim(ResDim(i)))>0) then
+        ResDim(i-1) = ResDim(i-1) & trim(ResDim(i))
+        ResDim(i) = ""
+      End if
+    next
+    for i = 0 to UBound(ResDim) - 1
+      if trim(ResDim(i))<>"" Then 
+          if i>0 then 
+             FResult = FResult & String(FPos," ") & ResDim(i) & vbCrLf
+          Else
+              FResult = FResult & ResDim(i) & vbCrLf
+          End if
+      end if
+    next
+  End Sub
+  
+  Private Function NextLiteral(index)
+    Arr = Literals.Keys
+    if index + 1 < Literals.Count Then
+       NextLiteral = Literals.Item(Arr(index + 1))
+    Else 
+       NextLiteral = ""
+    End if
+  End Function
+  
+  Private Function ToNum(StrValue, IntValue)
+    objRegExp.Pattern = "[\$]+"
+    set Matches = objRegExp.Execute(StrValue)
+    if Matches.Count > 0 then 
+       SSSTag = Matches.Item(0).Value
+       If (Len(SSSTag) = 1) or (Len(SSSTag)<Len(CStr(intValue))) Then 
+         ToNum = Replace(StrValue,SSSTag,CStr(intValue))
+       else
+         ToNum = Replace(StrValue,SSSTag,String(Len(SSSTag)-Len(CStr(intValue)),"0")+CStr(intValue))
+       end if 
+    Else 
+      ToNum = StrValue
+    End If
+  End Function
+  
+  Public Property Let InputStr(Value)
+     FStr = Value
+     PrePoc()
+     Parse()
+     Compile()
+     Run()
+  End Property
+  
+  Public Property Get Result()
+    Result = FResult
+  End Property
+  
+  Public Sub Test()
+    'Arr = Literals.Keys
+    'For i = 0 To Literals.Count - 1
+    '  Debug.Print Literals.Item(Arr(i))
+    'Next
+    Arr2 = Commands.Keys
+    For i = 0 To Commands.Count - 1
+      Debug.Print i, Commands.Item(Arr2(i))
+    Next
+    Debug.Print FResult
+  End Sub
+   
+End Class
+
+Set E = new Emmet
+semmet = Trim(CodeMemo.Currentstr)
+E.StrPos = Len(CodeMemo.Currentstr)-len(semmet)
+E.InputStr = semmet
+CodeMemo.SelStart = CodeMemo.SelStart - Len(semmet)
+CodeMemo.SelEnd = CodeMemo.SelStart + Len(semmet)
+CodeMemo.SelText = E.Result
+]]>
+		</menuitem>
+		<menuitem name="Рабочий каталог" shortcut="0">
+			<![CDATA[MsgBox App.WorkDir]]>
+		</menuitem>
+		<menuitem name="Copy record" shortcut="16466">Str = Trim(CodeMemo.CurrentStr)
+OutStr = ""
+Set Tbl = App.DBTables.item(CStr(Str))
+Tbl.open
+OutStr = "With " &amp; CStr(Str) &amp; vbCrLf
+OutStr = OutStr &amp; "  " &amp; ".Open" &amp; vbCrLf
+OutStr = OutStr &amp; "  " &amp; ".Insert" &amp; vbCrLf
+For i = 0 to Tbl.FieldCount-1
+   OutStr = OutStr &amp; "  ." &amp; Tbl.fieldNames(CInt(i)) &amp; " = LNK." &amp; Tbl.fieldNames(CInt(i)) &amp; vbCrLf
+Next
+OutStr = OutStr &amp; "  " &amp; ".Post" &amp; vbCrLf
+OutStr = OutStr &amp; "End With" &amp; vbCrLf
+
+CodeMemo.SelStart = CodeMemo.SelStart - Len(Str)
+CodeMemo.SelEnd = CodeMemo.SelStart + Len(Str)
+CodeMemo.SelText = OutStr</menuitem></menu>
+</addons>

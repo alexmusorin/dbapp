@@ -1,0 +1,625 @@
+﻿<?xml version="1.0"?>
+<objects>
+<object name="Global" type="inline" objclass="">
+<functions>
+   <function name="Abs" parameters="x" type="Double">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Int" parameters="x" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Fix" parameters="x" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Sgn" parameters="x" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Round" parameters="x, [numdecimal]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Rnd" parameters="[x]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Sqr" parameters="x" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Sin" parameters="x" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Cos" parameters="x" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Tan" parameters="x" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Atn" parameters="x" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Exp" parameters="x" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Log" parameters="x" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Asc" parameters="str" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="GetRef" parameters="Object" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Chr" parameters="code" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="InStr" parameters="[start,] str1, str2[, compare]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="InStrRev" parameters="str1, str2[, start[, compare]]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Join" parameters="list[, delim]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Split" parameters="expr[, delim[, count[, compare]]]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="LCase" parameters="str" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="UCase" parameters="str" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Left" parameters="str, len" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Right" parameters="str, len" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Mid" parameters="str, start[, len]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Len" parameters="str" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="LTrim" parameters="str" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="RTrim" parameters="str" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Trim" parameters="str" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Replace" parameters="expr, find, replacewith[, start[, count[, compare]]]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Space" parameters="x" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="String" parameters="number, char" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="StrComp" parameters="str1, str2[, compare]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="StrReverse" parameters="str" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="FormatCurrency" parameters="expr[, numDigitsAfterDecimal[, includeLeadDigit[, useParens[, groupDigits]]]]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="FormatDateTime" parameters="date[, namedFormat]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="FormatNumber" parameters="expr[, numDigitsAfterDecimal[, includeLeadDigit[, useParens[, groupDigits]]]]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="FormatPercent" parameters="expr[, numDigitsAfterDecimal[, includeLeadDigit[, useParens[, groupDigits]]]]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Date" parameters="" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Now" parameters="" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Time" parameters="" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Timer" parameters="" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="IsDate" parameters="expr" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Year" parameters="date" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Month" parameters="date" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Day" parameters="date" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Weekday" parameters="date[, firstdayofweek]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Hour" parameters="time" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Minute" parameters="time" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Second" parameters="time" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="DateValue" parameters="date" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="TimeValue" parameters="time" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="DateSerial" parameters="year, month, day" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="TimeSerial" parameters="hour, minute, second" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="MonthName" parameters="month[, abbr]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="WeekdayName" parameters="weekday[, abbr[, firstdayofweek]]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="DateAdd" parameters="interval, number, date" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="DateDiff" parameters="interval, date1, date2[, firstdayofweek[, firstweekofyear]]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="DatePart" parameters="interval, date[, firstdayofweek[, firstweekofyear]]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Array" parameters="arglist" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="LBound" parameters="arrayname[, dimension]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="UBound" parameters="arrayname[, dimension]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Filter" parameters="inputStrings, value[, include[, compare]]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="IsArray" parameters="varname" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="IsDate" parameters="varname" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="IsEmpty" parameters="varname" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="IsNull" parameters="varname" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="IsNumeric" parameters="varname" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="IsObject" parameters="varname" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="VarType" parameters="varname" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="TypeName" parameters="varname" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Hex" parameters="number" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Oct" parameters="number" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="MsgBox" parameters="prompt[, buttons][, title][, helpfile, context]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="InputBox" parameters="prompt[, title][, default][, xpos][, ypos][, helpfile, context]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="CreateObject" parameters="servername.typename[, location]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="GetObject" parameters="[pathname][, classname]" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="CBool" parameters="expr" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="CByte" parameters="expr" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="CCur" parameters="expr" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="CDate" parameters="expr" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="CDbl" parameters="expr" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="CInt" parameters="expr" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="CLng" parameters="expr" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="CSng" parameters="expr" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="CStr" parameters="expr" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="Eval" parameters="expr" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="GetLocale" parameters="" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="SetLocale" parameters="lcid" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="ScriptEngine" parameters="" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="ScriptEngineBuildVersion" parameters="" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="ScriptEngineMajorVersion" parameters="" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="ScriptEngineMinorVersion" parameters="" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+<function name="RGB" parameters="red, green, blue" type="">
+  <desc>
+  </desc>
+  <sample>
+  </sample>
+</function>
+</functions>
+</object>
+<object name="App" type="inline" objclass="">
+    <propertys>
+	    <property name="WorkDir" type="String">
+			<desc>
+				<![CDATA[Каталог из которого запущено приложение]]> 
+			</desc>
+			<sample>
+			  <![CDATA[MsgBox App.WorkDir]]>
+			</sample>
+		</property>
+		<property name="DBTables" type="Collection">
+		     <desc>
+				<![CDATA[]]> 
+			</desc>
+			<sample>
+			  <![CDATA[Debug.ClearText 
+'For i = 0 to App.DBTables.Count - 1 
+For Each Table in App.DBTables
+  With Table  'App.DBTables(i) 
+    Debug.Print "Таблица:", .Name, VbCrLf, "===СПИСОК ПОЛЕЙ ТАБЛИЦЫ=======" 
+    .Open
+    'For j = 0 to .Fields.Count - 1 
+    '   Debug.Print vbTab, .Fields(j).FieldName, ":", .Fields(j).DataType
+    'Next
+    For Each Field In .Fields 
+        Debug.Print vbTab, Field.FieldName, ":", Field.DataType
+    Next
+    .Close
+  End With
+Next]]>
+			</sample>
+		</property>	
+	</propertys>
+	<functions>
+	   <function name="GetFileName" parameters="" type="String">
+	   <desc>
+				<![CDATA[]]> 
+		</desc>
+		<sample>
+			  <![CDATA[MsgBox App.WorkDir]]>
+		</sample>
+		</function>
+	</functions>
+	<procedures>
+	   <procedure name="ShowTable" parameters="TableName as String">
+	   <desc>
+				<![CDATA[]]> 
+		</desc>
+		<sample>
+			  <![CDATA[MsgBox App.WorkDir]]>
+		</sample>
+	   </procedure>
+	</procedures>
+</object>
+</objects>
